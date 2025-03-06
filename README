@@ -1,4 +1,4 @@
-My_Octave, CLI matrix app.
+my_octave, CLI matrix app.
 
 Built in functions are used to create matrices, facillitate user commands and manage 
 memory allocation.
