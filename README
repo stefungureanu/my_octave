@@ -1,0 +1,20 @@
+My_Octave, CLI matrix app.
+
+Built in functions are used to create matrices, facillitate user commands and manage 
+memory allocation.
+
+Usage:
+
+	L (n , m) - add matrix
+	D (index) - show size of matrix
+	P (index) - show matrix
+	C (index, n, new n, m, new m) - resize matrix
+	M (index1, index2) - multiply matrices + add result
+	O - sort matrices by sum
+	T (index) - transpose matrix
+	R (index, pow) - raise matrix to the power pow
+	F (index) - remove matrix
+	Q - quit program
+	S (index1, index2) - power using Strassen
+
+
